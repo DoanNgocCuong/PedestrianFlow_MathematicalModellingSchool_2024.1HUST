@@ -1,3 +1,5 @@
+DoanNgocCuong 20210141
+
 # Pedestrian Flow Simulator - Modified Social Force Model
 
 This repository contains a complete implementation of the modified social force model for pedestrian flow dynamics, based on the paper by Seyfried, Steffen, and Lippert (2006): "Basics of modelling the pedestrian flow", Physica A 368:232-238.
@@ -148,12 +150,4 @@ pip install numpy matplotlib scipy pandas
 ## References
 
 Seyfried, A., Steffen, B., Lippert, T. (2006). Basics of modelling the pedestrian flow. Physica A, 368, 232-238.
-
-## License
-
-This implementation is provided for research and educational purposes. Please cite the original paper when using this code in academic work.
-
-## Contact
-
-For questions about the implementation or to report issues, please refer to the original paper or contact the implementation author.
 
